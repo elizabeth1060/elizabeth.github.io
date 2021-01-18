@@ -1,0 +1,88 @@
+.circle {
+    width: 62px;
+    height: 62px;
+    border-radius: 100px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.rounded-rectangle {
+    width: 62px;
+    height: 62px;
+    border-radius: 10px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.i {
+    background-image: url(../img/icon-list.png);
+}
+
+.i-person {
+    background-position:  -40px -40px;
+}
+
+.i-phone {
+    background-position: -159px -40px;
+}
+
+.i-message {
+    background-position: -277px -40px;
+}
+
+.i-clock {
+    background-position: -396px -40px;
+}
+
+.i-music {
+    background-position:  -40px -160px;
+}
+
+.i-photo {
+    background-position: -158px -160px;
+}
+
+.i-photocamera {
+    background-position: -277px -160px;
+}
+
+.i-videocamera {
+    background-position: -396px -160px;
+}
+
+.i-webcam {
+    background-position:  -40px -280px;
+}
+
+.i-microphone {
+    background-position: -158px -280px;
+}
+
+.i-trashcan {
+    background-position: -277px -280px;
+}
+
+.i-find {
+    background-position: -396px -280px;
+}
+
+.i-location {
+    background-position:  -40px -398px;
+}
+
+.i-setting {
+    background-position: -158px -398px;
+}
+
+.i-speaker {
+    background-position: -277px -398px;
+}
+
+.i-note {
+    background-position: -396px -398px;
+}
+
